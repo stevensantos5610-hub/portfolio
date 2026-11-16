@@ -55,6 +55,7 @@
 
 html {
   background: var(--ink);
+  color-scheme: dark;   /* dark scrollbars to match the page */
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
@@ -567,4 +568,6 @@ h1, h2, h3 { text-wrap: balance; }
 @media (pointer: coarse) {
   .card-link,
   .footer-links a { min-height: 44px; }
+  .footer-links a { min-width: 44px; justify-content: center; }
+  .nav-links a { display: flex; align-items: center; min-height: 44px; }
 }

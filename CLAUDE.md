@@ -7,7 +7,7 @@
 - **History:** started on 2026-11-15 as a local-only copy of the original site to try a new layout. The same day the user asked for a link "to use this on resume" and to keep the original up, so it was published as its own repo. The local folder is still named `personal-website-test`.
 - **The original site is separate and stays up:** repo `personal-website`, live at https://stevensantos5610-hub.github.io/personal-website/, local folder `Desktop/personal-website/`. That folder's `CLAUDE.md` is the source of truth for it. Never overwrite it with this layout unless the user asks.
 - **Which site an edit goes to:** the user has two sites now. If a request says "my website" without saying which, ask or go by context. Content edits are not mirrored between the two automatically; offer to apply them to both.
-- **Pushing:** the original site has an auto-push rule. The user has not yet said whether that applies here, so confirm before pushing edits to this site until they say so.
+- **Pushing:** on 2026-11-15 the user said to check that things work and then push to go live, and to make sure the original site still works and is never deleted. So: verify an edit locally, push to `main`, confirm the live page updated, and confirm the original site still returns 200.
 - **Old resume PDF is deliberately not in this repo** (the user tailors a resume per job). Don't add it back.
 - **Local-only branch `local-history`** holds the pre-publish commits, including the baseline copy of the original site with the bird feature. Don't push it: it contains the old resume PDF.
 
