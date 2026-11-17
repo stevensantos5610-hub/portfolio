@@ -50,7 +50,7 @@ same contents as the live page. Only the layout was borrowed: no names, logos or
 
 ## Content facts (avoid re-asking the user for these)
 
-- Contact: Steven.Santos5610@gmail.com · +1 (857) 272-7314 · Boston, MA
+- Contact: Steven.Santos5610@gmail.com · Boston, MA. The phone number and the expected graduation date were both removed from the site at the user's request on 2026-11-17; don't add either back.
 - LinkedIn: linkedin.com/in/steven-santos-8b6182276
 - Handshake: app.joinhandshake.com/profiles/558u2bbw
 - Newest role (top of Experience): Incoming IT Intern, WinnCompanies, Boston MA — Nov 2026–Present; supports technology implementations, system integrations, and IT asset tracking during property onboarding/offboarding. Intro cites the 2026 NMHC Top 50 Managers (#9, 122,183 units) and the 2026 NAHMA Affordable 100 (#2, 96,833 subsidized units), so recheck both yearly, plus the 30 states + D.C. + Puerto Rico footprint from winncompanies.com/about. One bullet on the role. Don't use "5th largest multi-family manager" from Winn's About page: it's undated and NMHC now has them at #9.
